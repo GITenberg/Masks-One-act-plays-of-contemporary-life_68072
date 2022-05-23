@@ -1,0 +1,30 @@
+_repo: Masks-One-act-plays-of-contemporary-life_68072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Middleton, George
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '7384'
+    url: http://www.gutenberg.org/2009/agents/7384
+    wikipedia: http://en.wikipedia.org/wiki/George_Middleton_(playwright)
+description: ''
+gutenberg_issued: '2022-05-14'
+identifiers:
+  gutenberg: '68072'
+language: en
+pgterms:marc904: https://archive.org/details/maskswithjimsbea00midd/page/n7/mode/2up
+pgterms:marc905: 20200913222957middleton
+pgterms:marc906: '1920'
+pgterms:marc907: EN
+production_note: Charlene Taylor, hekula03 and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: EN :Samuel French,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Masks: One act plays of contemporary life'
+url: http://www.gutenberg.org/ebooks/68072
